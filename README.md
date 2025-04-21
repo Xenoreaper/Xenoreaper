@@ -2,14 +2,15 @@
 - As of right now (while a semester at uni isn't in progress) I occupy my time with these topics:
   - Expanding what programming languages I can actually natively program.
     - currently looking into Go and Rust
-  - Running/administrating a server (run through [Netcup](https://www.netcup.com)).
-    - My server uses Docker to containerize all its different applications (this is quite often a pain in the butt, as I don't fully understand how to create containers yet).
-    - Games
-      - Minecraft
-      - Satisfactory
-      - Factorio
-      - and whatever me and my friends are currently interested in
   - I "research" topics like AI (or Docker).
+- I play a bunch of video games.
+- I run/administrate a server (run through [Netcup](https://www.netcup.com)).
+  - My server uses Docker to containerize all its different applications (this is quite often a pain in the butt, as I don't fully understand how to create containers yet).
+  - Games
+    - Minecraft
+    - Satisfactory
+    - Factorio
+    - and whatever me and my friends are currently interested in
 - I want to get into creating mods for games (probably mainly Minecraft at first).
 - I don't motorcycle because it's cool, I motorcycle because it's fun, aside from that I don't motorcycle.
   - ~~if you got this you're more into german internet culture than I am~~
