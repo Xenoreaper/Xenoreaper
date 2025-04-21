@@ -2,7 +2,7 @@
 - I'm currently learning Go.
 - I'm currently "researching" AI.
 - I'm currently running a Server (mainly Minecraft right now).
-- How to reach me: reach out on [Discord](https://discord.gg/u9athNp)
+- How to reach me: reach out on [Discord](https://discord.gg/rmaV36gK9G)
 
 
 <!--
