@@ -16,10 +16,10 @@
   - ~~if you got this you're more into german internet culture than I am~~
   - But I love to motorcycle.
 - I love video editing and do post-processing.
-- How to reach me: probably reach out on [Discord](https://discord.gg/rmaV36gK9G) (chances are I won't react if you're not on this server, as I don't know you)
+- How to reach me: probably reach out on [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rmaV36gK9G) (chances are I won't react if you're not on this server, as I don't know you)
 - I will eventually create video content (again) on:
-  - [YouTube](https://www.youtube.com/@Xenoreaper)
-  - [Twitch](https://www.twitch.tv/xen0reaper)
+  - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Xenoreaper)
+  - [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/xen0reaper)
 
 <br><br><br><br><sub>I technically would use arch if my Windows were to kill itself btw</sub>
 
