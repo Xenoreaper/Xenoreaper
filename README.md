@@ -7,9 +7,9 @@
 - I run/administrate a server (run through [Netcup](https://www.netcup.com)).
   - My server uses Docker to containerize all its different applications (this is quite often a pain in the butt, as I don't fully understand how to create containers yet).
   - Games
-    - Minecraft
-    - Satisfactory
-    - Factorio
+    - [Minecraft](https://github.com/itzg/docker-minecraft-server)
+    - [Satisfactory](https://github.com/wolveix/satisfactory-server)
+    - [Factorio](https://github.com/factoriotools/factorio-docker)
     - and whatever me and my friends are currently interested in
 - I want to get into creating mods for games (probably mainly Minecraft at first).
 - I don't motorcycle because it's cool, I motorcycle because it's fun, aside from that I don't motorcycle.
